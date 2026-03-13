@@ -56,17 +56,10 @@ https://github.com/YOUR-USERNAME/REPO-NAME
 
 After pushing, GitHub displays a helpful banner:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  📁 yourname / Hello-World                                              │
-│     forked from octocat/Hello-World                                     │
-│                                                                         │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │ 🟡 docs/add-my-name-to-contributors had recent pushes 1 min ago   │  │
-│  │                                     [Compare & pull request]      │  │
-│  └───────────────────────────────────────────────────────────────────┘  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![Yellow Compare and pull request banner](../screenshots/06-pr-banner.png)
+
+
 
 Click **"Compare & pull request"**.
 
@@ -102,37 +95,10 @@ If you see ❌ conflicts, see the troubleshooting section at the bottom.
 
 The PR form is where you describe your changes for the maintainers:
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  Open a pull request                                                    │
-│                                                                         │
-│  Title *                                                                │
-│  ┌─────────────────────────────────────────────────────────────────┐   │
-│  │ docs: add Jane Doe to contributors list                         │   │
-│  └─────────────────────────────────────────────────────────────────┘   │
-│                                                                         │
-│  Write  Preview                              Styling with Markdown ✓    │
-│  ┌─────────────────────────────────────────────────────────────────┐   │
-│  │ ## What does this PR do?                                        │   │
-│  │ Adds my name to the contributors list in contributors.md.      │   │
-│  │                                                                 │   │
-│  │ ## Why?                                                         │   │
-│  │ Contributing to this project as part of my first open source   │   │
-│  │ contribution! 🎉                                                │   │
-│  │                                                                 │   │
-│  │ ## Changes                                                      │   │
-│  │ - Added one row to contributors.md                             │   │
-│  │                                                                 │   │
-│  │ ## Checklist                                                    │   │
-│  │ - [x] I've read CONTRIBUTING.md                                │   │
-│  │ - [x] My change doesn't break any existing functionality       │   │
-│  └─────────────────────────────────────────────────────────────────┘   │
-│                                                                         │
-│  Reviewers   Assignees   Labels   Projects   Milestone                  │
-│                                                                         │
-│                              [Create pull request]                      │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+![Filled in Pull Request form](../screenshots/07-pr-form.png)
+
+
 
 ---
 
@@ -247,13 +213,10 @@ Done! Added the profile link. Thanks for the quick review!
 
 When a maintainer approves and merges your PR:
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  🟣  Merged  maintainer-alice merged 1 commit into main      │
-│                                                              │
-│  [Delete branch]                                             │
-└──────────────────────────────────────────────────────────────┘
-```
+
+![Purple merged confirmation screen](../screenshots/08-pr-merged.png)
+
+
 
 🎉 **Congratulations — you're an open source contributor!**
 

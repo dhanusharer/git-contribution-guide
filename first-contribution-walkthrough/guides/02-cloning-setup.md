@@ -77,10 +77,9 @@ Go to **your fork** on GitHub (not the original):
 
 Click the green **Code** button:
 
-```
+
 ![Green Code button and clone URL dropdown](../screenshots/04-clone-url.png)
 
-```
 
 Make sure **HTTPS** is selected (easier for beginners). Click the clipboard icon to copy the URL.
 

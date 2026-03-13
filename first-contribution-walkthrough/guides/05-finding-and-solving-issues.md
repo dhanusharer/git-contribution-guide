@@ -38,7 +38,7 @@ Every repository has an **Issues** tab. Look for these beginner-friendly labels:
 2. Click **Labels** dropdown
 3. Select `good first issue` or `help wanted`
 
-<!-- Screenshot: Issues tab with label filter open -->
+
 ![Issues tab with label filter](../screenshots/05-issues-labels.png)
 
 ---
@@ -97,7 +97,7 @@ A well-written issue looks like this:
 > before starting. Maintainers appreciate this — it shows you're
 > thoughtful.
 
-<!-- Screenshot: A real GitHub issue page with labels and description -->
+
 ![Example GitHub issue page](../screenshots/05-issue-page.png)
 
 ---
@@ -130,7 +130,7 @@ Then wait for a maintainer to respond or assign it to you:
 > may already have someone working on it privately, or may want
 > to discuss the approach before you invest time coding.
 
-<!-- Screenshot: Comment box on a GitHub issue -->
+
 ![Commenting on a GitHub issue](../screenshots/05-issue-comment.png)
 
 ---
@@ -288,7 +288,7 @@ Closes #42
 | `Fixes` | `Fixes #42` |
 | `Resolves` | `Resolves #42` |
 
-<!-- Screenshot: PR description with Closes #42 linking to issue -->
+
 ![PR description linking to issue](../screenshots/05-pr-closes-issue.png)
 
 ---
