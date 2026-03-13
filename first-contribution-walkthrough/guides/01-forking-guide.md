@@ -89,10 +89,10 @@ https://github.com/YOUR-USERNAME/Hello-World
 (Not `octocat/Hello-World`)
 
 ✅ **You see the "forked from" notice:**
-```
+
 ![Fork confirmed with forked-from notice](../screenshots/03-fork-confirmed.png)
 
-```
+
 
 ✅ **The content matches the original repo**
 
