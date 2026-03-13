@@ -38,23 +38,7 @@ Navigate to the repository you want to fork. For this walkthrough, use the pract
 
 ```
 https://github.com/[REPO-OWNER]/first-contribution-sample
-```
 
-You'll land on a page that looks like this:
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│ GitHub                                    🔔  +▾  👤▾               │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  📁 octocat / Hello-World                                            │
-│                                                                      │
-│  [Code] [Issues] [Pull requests] [Actions] [Projects] [Wiki]        │
-│                                                                      │
-│  ⭐ Star  1.2k    🍴 Fork  843    👁 Watch  ▾                        │
-│                                             ▲                        │
-│                                      Click this button!             │
-└──────────────────────────────────────────────────────────────────────┘
 ```
 
 > 📍 **Where to look:** Top-right area of the repository page. The **Fork** button shows how many times the repo has been forked.
@@ -65,25 +49,7 @@ You'll land on a page that looks like this:
 
 After clicking Fork, GitHub shows you a dialog:
 
-```
-┌────────────────────────────────────────────────────────┐
-│  Create a new fork                              [✕]    │
-│                                                        │
-│  Owner *                  Repository name *            │
-│  ┌──────────────────┐    ┌──────────────────────────┐  │
-│  │ yourname       ▾ │    │ Hello-World              │  │
-│  └──────────────────┘    └──────────────────────────┘  │
-│                                                        │
-│  Description (optional)                                │
-│  ┌──────────────────────────────────────────────────┐  │
-│  │                                                  │  │
-│  └──────────────────────────────────────────────────┘  │
-│                                                        │
-│  ☑ Copy the main branch only                          │
-│                                                        │
-│            [Cancel]  [Create fork]                     │
-└────────────────────────────────────────────────────────┘
-```
+![Create a new fork dialog](../screenshots/02-fork-dialog.png)
 
 **Options explained:**
 - **Owner:** Select your personal account (not an organization, unless intended)
@@ -124,12 +90,8 @@ https://github.com/YOUR-USERNAME/Hello-World
 
 ✅ **You see the "forked from" notice:**
 ```
-┌──────────────────────────────────────────────────────────┐
-│  📁 yourname / Hello-World                               │
-│     forked from octocat/Hello-World                      │
-│                                  ↑                       │
-│              This line confirms it's a fork!             │
-└──────────────────────────────────────────────────────────┘
+![Fork confirmed with forked-from notice](../screenshots/03-fork-confirmed.png)
+
 ```
 
 ✅ **The content matches the original repo**

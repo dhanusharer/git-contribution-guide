@@ -67,25 +67,19 @@ user.email=jane@example.com
 Go to **your fork** on GitHub (not the original):
 
 ```
-https://github.com/YOUR-USERNAME/REPO-NAME
+### Step 2 — Get Your Fork's URL
+![Green Code button and clone URL dropdown](../screenshots/04-clone-url.png)
+
+### Step 3 — Clone the Repository
+![Terminal showing successful git clone output](../screenshots/05-clone-output.png)
+
 ```
 
 Click the green **Code** button:
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                       [Code ▾] [Issues] │
-│                                          │               │
-│                              ┌───────────▼────────────┐ │
-│                              │  Clone                  │ │
-│                              │  ● HTTPS  SSH  CLI      │ │
-│                              │  ┌─────────────────────┐│ │
-│                              │  │ https://github.com/ ││ │
-│                              │  │ yourname/Hello-Wor  ││ │
-│                              │  └─────────────────────┘│ │
-│                              │            [📋 Copy]    │ │
-│                              └─────────────────────────┘ │
-└─────────────────────────────────────────────────────────┘
+![Green Code button and clone URL dropdown](../screenshots/04-clone-url.png)
+
 ```
 
 Make sure **HTTPS** is selected (easier for beginners). Click the clipboard icon to copy the URL.
@@ -127,7 +121,7 @@ remote: Total 15 (delta 2), reused 14 (delta 1), pack-reused 0
 Receiving objects: 100% (15/15), 4.23 KiB | 1.06 MiB/s, done.
 Resolving deltas: 100% (2/2), done.
 ```
-
+![Terminal showing successful git clone output](../screenshots/05-clone-output.png)
 ---
 
 ## Step 4 — Enter the Project Folder
