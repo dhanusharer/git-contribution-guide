@@ -32,6 +32,7 @@ Forks are visible to everyone on GitHub. They're a normal, expected part of open
 ## Step-by-Step: Forking
 
 ### Step 1 — Find the Repository
+![Fork button on GitHub repo page](../screenshots/01-fork-button.png)
 
 Navigate to the repository you want to fork. For this walkthrough, use the practice repository:
 
